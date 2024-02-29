@@ -10,4 +10,4 @@ Tecnologias que uso no meu dia:
 </div>
 <br>
 
-Expert da área da tecnologia e cada vez mais me apaixonando pela programação.
+Expert na área da tecnologia e cada vez mais me apaixonando pela programação.
