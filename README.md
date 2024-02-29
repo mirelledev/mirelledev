@@ -1,6 +1,6 @@
 Olá! Me chamo Mirelle Geovanna ✌
 
-[![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/mirellebtw)
+[![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirellebtw)
 
 Tecnologias que uso no meu dia:
 <div style="display:inline_block"><br>
